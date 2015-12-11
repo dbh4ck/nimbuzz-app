@@ -1,0 +1,15 @@
+C:\Users\Sarjeet\Documents\Visual Studio 2013\Projects\Nimbuzz_App\Nimbuzz_App\bin\Debug\DBuzz.exe.config
+C:\Users\Sarjeet\Documents\Visual Studio 2013\Projects\Nimbuzz_App\Nimbuzz_App\bin\Debug\DBuzz.pdb
+C:\Users\Sarjeet\Documents\Visual Studio 2013\Projects\Nimbuzz_App\Nimbuzz_App\bin\Debug\agsXMPP.dll
+C:\Users\Sarjeet\Documents\Visual Studio 2013\Projects\Nimbuzz_App\Nimbuzz_App\bin\Debug\MehdiComponent.dll
+C:\Users\Sarjeet\Documents\Visual Studio 2013\Projects\Nimbuzz_App\Nimbuzz_App\obj\Debug\Nimbuzz_App.csprojResolveAssemblyReference.cache
+C:\Users\Sarjeet\Documents\Visual Studio 2013\Projects\Nimbuzz_App\Nimbuzz_App\obj\Debug\DBuzz.Form1.resources
+C:\Users\Sarjeet\Documents\Visual Studio 2013\Projects\Nimbuzz_App\Nimbuzz_App\obj\Debug\DBuzz.Properties.Resources.resources
+C:\Users\Sarjeet\Documents\Visual Studio 2013\Projects\Nimbuzz_App\Nimbuzz_App\obj\Debug\DBuzz.Resources.resources
+C:\Users\Sarjeet\Documents\Visual Studio 2013\Projects\Nimbuzz_App\Nimbuzz_App\obj\Debug\Nimbuzz_App.csproj.GenerateResource.Cache
+C:\Users\Sarjeet\Documents\Visual Studio 2013\Projects\Nimbuzz_App\Nimbuzz_App\obj\Debug\DBuzz.exe
+C:\Users\Sarjeet\Documents\Visual Studio 2013\Projects\Nimbuzz_App\Nimbuzz_App\obj\Debug\DBuzz.pdb
+C:\Users\Sarjeet\Documents\Visual Studio 2013\Projects\Nimbuzz_App\Nimbuzz_App\bin\Debug\DBuzz.exe
+E:\Softwares\Visual Studio Projects\Nimbuzz_App\Nimbuzz_App\bin\Debug\DBuzz.exe.config
+E:\Softwares\Visual Studio Projects\Nimbuzz_App\Nimbuzz_App\obj\Debug\DBuzz.exe
+E:\Softwares\Visual Studio Projects\Nimbuzz_App\Nimbuzz_App\obj\Debug\DBuzz.pdb
